@@ -1,5 +1,3 @@
-<h1 align="left">Hello, World!🌎</h1>
-
 ###
 
 <h6 align="center">Hi 👋! My name is Raphael I have a degree in Systems Analysis and Development, working in the Data department.</h6>
