@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="center">Hello, World! 🌎</h6>
+<h2 align="center">Hello, World! 🌎</h2>
 
 ###
 
