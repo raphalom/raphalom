@@ -2,13 +2,17 @@
 
 ###
 
+<h6 align="center">Hello, World! 🌎</h6>
+
+###
+
 <div align="center">
   <img height="200" src="https://github.com/raphalom/Joaommsp/blob/main/my-gif-banner.gif?raw=true"  />
 </div>
 
 ###
 
-<h2 align="center">Hi 👋! My name is Raphael I have a degree in Systems Analysis and Development, working in the Data department.</h6>
+<h6 align="center">Hi 👋! My name is Raphael I have a degree in Systems Analysis and Development, working in the Data department.</h6>
 
 ###
 
