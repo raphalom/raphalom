@@ -8,7 +8,7 @@
 
 ###
 
-<h6 align="center">Hi 👋! My name is Raphael I have a degree in Systems Analysis and Development, working in the Data department.</h6>
+<h2 align="center">Hi 👋! My name is Raphael I have a degree in Systems Analysis and Development, working in the Data department.</h6>
 
 ###
 
